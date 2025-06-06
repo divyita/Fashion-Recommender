@@ -31,8 +31,9 @@ Fashion MNIST Dataset – Image dataset for training and testing
 
 Development Environment: Jupyter Notebook
 
-## 📸 Screenshots
-Include relevant screenshots here to showcase the application's interface and features.
+## 📸 Instances
+Dataset surface view :<br>
+
 
 ## 🔧 Installation & Usage
 Clone the Repository:<br>
